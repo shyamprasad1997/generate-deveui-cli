@@ -1,0 +1,6 @@
+server:
+  port: ':8080'
+
+lorawan:
+  baseurl: http://europe-west1-machinemax-dev-d524.cloudfunctions.net
+  endpoint: /sensor-onboarding-sample
